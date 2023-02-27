@@ -1,0 +1,756 @@
+htfhtf@AnatolyHP:~$ history
+    1  date
+    2  echo $SHELL
+    3  pwd
+    4  ls
+    5  pwd
+    6  cd C:\Users\anato\Git\Test\anatolytyurin
+    7  cd Users\anato\Git\Test\anatolytyurin
+    8  cmd C:
+    9  cd /d C:\Users\anato\Git\Test\anatolytyurin
+   10  cd \d C:\Users\anato\Git\Test\anatolytyurin
+   11  cd \c C:\Users
+   12  cd \C C:\Users
+   13  cd \B C:\Users
+   14  cd /B C:\Users
+   15  cd
+   16  cd /c
+   17  cd /d
+   18  cd \c C:
+   19  #!/bin/bash
+   20  qw
+   21  #!/bin/bash
+   22  nano bash script2.sh
+   23  nano script3.sh
+   24  bash script3.sh
+   25  nano new_script.sh
+   26  bash new_script.sh
+   27  pwd
+   28  cd /c :C
+   29  cd ..
+   30  nano new_script.sh
+   31  cd /home/htfhtf
+   32  nano new_script.sh
+   33  pwd
+   34  ls
+   35  ls -la
+   36  pwd
+   37  cd git3
+   38  pwd
+   39  ls
+   40  pwd
+   41  ip a
+   42  asd
+   43  pwd
+   44  ls /
+   45  ls -l /
+   46  ls -l /home/
+   47  whoami
+   48  sudo usermod -l htfhtf Tyurin
+   49  sudo usermod -l htfhtf tyurin
+   50  pwd
+   51  --login
+   52  sudo --login
+   53  pwd
+   54  cd ..
+   55  cd htfhtf
+   56  whoami
+   57  cd --help
+   58  list -l htfhtf/
+   59  pwd
+   60  cd home
+   61  cd home/
+   62  cd /home/
+   63  ls
+   64  pwd
+   65  ls -l
+   66  cd htfhtf
+   67  pwd
+   68  ls
+   69  ls -l
+   70  cd git3
+   71  pwd
+   72  cd htfhtf
+   73  cd/htfhtf
+   74  cd /htfhtf
+   75  cd /htfhtf/
+   76  pwd
+   77  cd /htfhtf/
+   78  cd /home/htfhtf
+   79  pwd
+   80  ls -la
+   81  man ls
+   82  ls -a
+   83  ls -l
+   84  ls-la
+   85  ls -la
+   86  history
+   87  cd htfhtf
+   88  cd
+   89  ls -la
+   90  touch test_file
+   91  ls -l
+   92  cat test_file
+   93  pwd
+   94  ls -la
+   95  rm test_file
+   96  ls -la
+   97  mkdir test_file
+   98  ls -ld test_file
+   99  rmdir test_file
+  100  ls -la
+  101  pwd
+  102  la -la
+  103  mkdir geekbrains
+  104  pwd
+  105  ls -la
+  106  cd geekbrains
+  107  pwd
+  108  mkdir dir1
+  109  mkdir dir2
+  110  mkdir dir3
+  111  touch file1
+  112  touch file2
+  113  touch file3
+  114  ls -la
+  115  nano file1
+  116  ls -la
+  117  cat file1
+  118  vim file1
+  119  cp file1 new
+  120  ls -l
+  121  cat new
+  122  mv new new2
+  123  ls -l
+  124  mv new2 dir1
+  125  ls -l
+  126  cd dir1
+  127  ls -l
+  128  pwd
+  129  cd ..
+  130  mv -r dir1 dir2
+  131  mv --help
+  132  mv -r dir1 dir2
+  133  ls -la
+  134  cd
+  135  ../
+  136  /
+  137  pwd
+  138  ../
+  139  pwd
+  140  cd ../
+  141  pwd
+  142  cd ./
+  143  cd /
+  144  pwd
+  145  cd
+  146  pwd
+  147  /
+  148  pwd
+  149  //
+  150  ./
+  151  pwd
+  152  ../
+  153  pwd
+  154  cd ./
+  155  pwd
+  156  ls -la
+  157  cd -
+  158  cd-
+  159  cd -\
+  160  cd
+  161  cd -
+  162  ls -la
+  163  cd git4
+  164  cd -
+  165  cd geekbrains
+  166  ls -la
+  167  cd dir1
+  168  pwd
+  169  cd -
+  170  cd dir1
+  171  pwd
+  172  cd
+  173  pwd
+  174  id
+  175  id root
+  176  ls -l /etc/passwd
+  177  ls -l /etc/group
+  178  less /etc/passwd
+  179  less /etc/[asswd
+  180  less /etc/passwd
+  181  less /etc/group
+  182  ls -l /etc/shadow
+  183  црщфьш
+  184  whoami
+  185  sudo -
+  186  sudo -i
+  187  ls -l /etc/passwd
+  188  cat /etc/passwd
+  189  ls -l /
+  190  ls -l /etc
+  191  ls -l /etc/group
+  192  cat /etc/group
+  193  cat /etc/shadow
+  194  su
+  195  su -i
+  196  su --help
+  197  sudo su
+  198  su
+  199  sudu su
+  200  sudo su
+  201  ls -l /etc/shadow
+  202  cat /etc/shadow
+  203  sudo su
+  204  pwd
+  205  cd ..
+  206  pwd
+  207  ls -l ./
+  208  ls -l
+  209  cd ..
+  210  ls -l
+  211  cd usr
+  212  ls -l
+  213  cd ..
+  214  ls -l
+  215  cd etc
+  216  ls -l
+  217  cd passwd
+  218  cd /passwd
+  219  cat /passwd
+  220  cd etc/passwd
+  221  cd
+  222  cd etc/passwd
+  223  cat etc/passwd
+  224  sudo su
+  225  useradd -s /bin/bash -d /home/user -m Moreadentre
+  226  sudo su
+  227  userdel Moreadentre
+  228  sudo su
+  229  su Moreadentre
+  230  sudo su
+  231  pwd
+  232  cat /etc/passwd
+  233  groupadd home2
+  234  sudo -
+  235  sudo do
+  236  sudo -
+  237  exit
+  238  sudo -
+  239  exit
+  240  sudo -i
+  241  vi /etc/passwd
+  242  cat /etc/group
+  243  useradd Moreadentre
+  244  sudo -i
+  245  vi /etc/sudoers
+  246  sudo -i
+  247  useradd Moreadentre2
+  248  cat /etc/users
+  249  cat /etc/passwd
+  250  cat /etc/group
+  251  visudo /etc/group
+  252  sudo -i
+  253  id
+  254  id root
+  255  ls -l /etc/passwd
+  256  ls -l /etc/group
+  257  ls -l /etc/shadow
+  258  ls -l /etc/passwd
+  259  less /etc/passwd
+  260  less /etc/froup
+  261  less /etc/group
+  262  less /etc/shadow
+  263  sudo -i
+  264  su
+  265  less /etc/sudoers
+  266  less /etc/groups
+  267  less /etc/group
+  268  less /etc/passwd
+  269  less /etc/sgadow
+  270  less /etc/shadow
+  271  id htfhtf
+  272  less /etc/sudoers
+  273  exit
+  274  id
+  275  sudo -
+  276  sudo /etc/sodoers
+  277  sudo less /etc/sudoers
+  278  less /etc/group
+  279  usermod --help
+  280  usermod -aG home2 htfhtf
+  281  sudo udermod -aG home2 hyfhyf
+  282  sudo usermod -aG home2 htfhtf
+  283  id
+  284  usermod -g home3 htfhtf
+  285  sudo usermod -g home3 htfhtf
+  286  id
+  287  su test99
+  288  exit
+  289  sudo su
+  290  sudo -i
+  291  ls -l
+  292  ls wqdfqw
+  293  ls -l out
+  294  ls -l ./ > out123
+  295  ls -l out123
+  296  cat out123
+  297  les out123
+  298  less out123
+  299  rm out123
+  300  nano out123
+  301  less out123
+  302  ls -l ./ > out123
+  303  less out123
+  304  rm out123
+  305  nano out123
+  306  less out123
+  307  ls -l ./ >> out123
+  308  less out123
+  309  ls -l ./ > out123
+  310  less out123
+  311  ls -l ./ > out123
+  312  less out123
+  313  ls -l ./ >> out123
+  314  less out123
+  315  ls rfad
+  316  ls dawaw > out123
+  317  less out123
+  318  ls dawaw 2> out123
+  319  less out123
+  320  cat out123
+  321  ls dawaw ./ 2> out123
+  322  ls dawaw ./ 2> out123 > out2
+  323  cat out123
+  324  cat out2
+  325  history
+  326  ls d/
+  327  ls awafsa ./
+  328  ls awafsa ./ &> all
+  329  cat all
+  330  ls awafsa ./ > all 2>&1
+  331  cat all
+  332  ls awafsa ./ &>> all
+  333  cat all
+  334  tail all
+  335  tail -n 3 all
+  336  tail all > all
+  337  cat all
+  338  ls -l /etc
+  339  ls -l /etc | less
+  340  history
+  341  ls -l /etc/ > all
+  342  less all
+  343  grep "^d" all
+  344  grep "su" all
+  345  grep -i "Su" all
+  346  grep -r ":x:0:0:" /etc/
+  347  grep -r ":x:0:0:" /etc/ 2> /dev/null
+  348  grep -v "su" all
+  349  grep -v "^d" all | less
+  350  cat /etc/
+  351  cat /etc/* > etc_out 2> etc_err
+  352  less etc_out
+  353  less etc_err
+  354  wc -l etc_err
+  355  df -h
+  356  ps
+  357  ps -efl
+  358  ps -efl | head
+  359  ps -efl | grep htfhtf
+  360  ls -l
+  361  ls - l | cut -c2-10
+  362  ls -l | cut -c2-10 | sort
+  363  ls -l | cut -c2-10 | sort -u | wc -l
+  364  ps --help
+  365  man ps
+  366  systemctl status
+  367  echo Hello! Here is just a test message.
+  368  ls -l
+  369  echo "Hello! Here is just a test message." > echo_test.txt
+  370  ls -l
+  371  ls -l etc/
+  372  ls -l /etc/
+  373  cat /etc/* > etc_out 2> etc_err
+  374  cut --help
+  375  ls - l | cut -c2-10
+  376  ls -l | grep  | cut -c2-10
+  377  ls -l | grep rw | cut -c2-10
+  378  ls -l | grep rw | cut -c2-10 | sort -u |
+  379  ls -l | grep rw | cut -c2-10 | sort -u
+  380  ls -l | tail -n +2 | cut -c2-10 | sort -u
+  381  ls -la
+  382  chmod o+w script3.sh
+  383  ls -la script3.sh
+  384  chmod u-w script3.sh
+  385  ls -la script3.sh
+  386  echo script3.sh
+  387  echo >> script3.sh
+  388  chmod u_rw script3.sh
+  389  chmod u+rw script3.sh
+  390  ls -la script3.sh
+  391  chmod 755 script3.sh
+  392  ls -la script3.sh
+  393  chmod 137 script3.sh
+  394  ls -la script3.sh
+  395  ls -ld dir
+  396  ls -li
+  397  df -hT
+  398  df -i
+  399  sudo apt install tree -y
+  400  tree
+  401  sudo apt install tree
+  402  apt search tree
+  403  tree --help
+  404  sudo apt install tree
+  405  exit
+  406  less /etc/shadow
+  407  ls -l /etc/shadow
+  408  type -a passwd
+  409  ls -l /usr/bin/passwd
+  410  exit
+  411  cd ..
+  412  ls -li
+  413  mkdir temp2
+  414  pwd
+  415  /home/htfhtf
+  416  cd /home/htfhtf
+  417  pwd
+  418  ls -li
+  419  mkdir temp
+  420  cd temp
+  421  ls -l
+  422  vim test.sh
+  423  cat test.sh
+  424  bash test.sh
+  425  cat test.sh
+  426  vim test.sh
+  427  bash test.sh
+  428  pwd
+  429  ls -la
+  430  touch new_file1
+  431  ls -la
+  432  vim new_file1
+  433  cat file1
+  434  cat new_file1
+  435  cp new_file1 new_file2
+  436  ls -la
+  437  ln -s new_file1 new_file3
+  438  ls -la
+  439  ln new_file1 new_file4
+  440  ls -la
+  441  ls -li
+  442  rm new_file1
+  443  ls -li
+  444  cat new_file3
+  445  cat new_file1
+  446  cat new_file4
+  447  mv new_file2 books
+  448  ls -li
+  449  mv new_file4 films
+  450  ls -li
+  451  mv new_file1 music
+  452  rm new_file1
+  453  rm new_file3
+  454  ls -li
+  455  ln -s books books_new && ln -s films films_new
+  456  ls -li
+  457  mv books_new ./folder
+  458  cd folder
+  459  ls -li
+  460  cat books
+  461  pwd
+  462  mv /home/htfhtf/films_new /home/htfhtf/folder
+  463  ls -li
+  464  cd ..
+  465  cat > cars
+  466  touch cars
+  467  cat cars
+  468  ls -li
+  469  ln -s cars cars_new
+  470  ls -li
+  471  mv /home/htfhtf/cars /home/htfhtf/folder
+  472  ls -li
+  473  cat cars
+  474  cd folder
+  475  ls -li
+  476  cat cars
+  477  rm cars
+  478  cd ..
+  479  rm books && rm films
+  480  ls -li
+  481  rm cars_new
+  482  ls -li
+  483  cat > sport
+  484  ln -s /home/htfhtf/sport /home/htfhtf/sport_new
+  485  ls -li
+  486  cd folder
+  487  ls -li
+  488  ls -la
+  489  cd..
+  490  cd ..
+  491  mv sport_new ./folder
+  492  ls -li
+  493  cd folder
+  494  ls -li
+  495  cat sport_new
+  496  ls -li
+  497  cd ..
+  498  cat sport
+  499  cat > double_chack
+  500  mv double_chack double_check
+  501  cat double_check
+  502  ln -s /home/htfhtf/double_check /home/htfhtf/double_check2
+  503  ls -li
+  504  mv double_check2 ./folder
+  505  cat double_check
+  506  cd folder
+  507  cat double_check2
+  508  ls -li
+  509  rm books_new && rm films_new
+  510  ls -li
+  511  cat > bikes
+  512  cat > pets
+  513  ls -li
+  514  chmod ug+rw bikes
+  515  ls -li
+  516  chmod u+rw,g-r,o-r pets
+  517  ls -li
+  518  chmod 300 bikes
+  519  ls -li
+  520  chmod 600 bikes
+  521  ls -li
+  522  chmod 664
+  523  chmod 664 pets
+  524  ls -li
+  525  ls - l /etc/shadow
+  526  sudo ls -l /etc/shadow
+  527  root
+  528  sudo -i
+  529  sd -i
+  530  su -i
+  531  cd ..
+  532  ls -l
+  533  mkfir tmp2
+  534  mkdir tmp2
+  535  mkdir temp2
+  536  cat /etc/sudoers
+  537  sudo -i
+  538  pwd
+  539  cd
+  540  pwd
+  541  less /etc/shadow
+  542  sudo -i
+  543  ls -l
+  544  vim temp
+  545  cd temp
+  546  ls -l
+  547  vim test.sh
+  548  ls - l ./*
+  549  ls -l ./*
+  550  mkdir 1
+  551  mkdir 2
+  552  mkdir 3
+  553  rm -r 1 2 3
+  554  mkdir {1..3}
+  555  ls -l
+  556  rm -r 1 2 3
+  557  ls -l
+  558  mkdir {2019..2021}
+  559  ls -l
+  560  rm -r {2019..2021}
+  561  ls -l
+  562  mkdir {2019..2021}
+  563  mkdir {2019..2021}/{01..12}
+  564  ls -l
+  565  ls -l 2019/
+  566  ls -l 2020/
+  567  rm -r {2019..2021}
+  568  ls -l
+  569  mkdir -p {2019..2021}/{01..12}
+  570  ls -l
+  571  ls -l /2021
+  572  ls -l 2021/
+  573  ls -l 2021/10/
+  574  rm -r {2019..2021}
+  575  ls -l
+  576  mkdir -p {2019..2021}/{01..12}
+  577  touch {2019..2021}/{01..12}/file{1..5}.txt
+  578  ls -l
+  579  ls -l 2019/01/1
+  580  ls -l 2019/01
+  581  vim test.sh
+  582  ./test.sh
+  583  ls -l
+  584  chmod -o 777
+  585  history
+  586  chmod 777 test.sh
+  587  ls -li
+  588  ./test.sh
+  589  vim test.sh
+  590  ./test.sh
+  591  ls -l
+  592  vim test.sh
+  593  ./test.sh
+  594  vim test.sh
+  595  ./test.sh
+  596  ls -l
+  597  ls -l /2020
+  598  ls -l 2020/
+  599  ls -l 2020/09
+  600  ls -l 2020/09/file1.txt
+  601  cat 2020/09/file1.txt
+  602  cat test.sh
+  603  rm -r {2019..2021}
+  604  ls -l
+  605  for y in {2019..2021}; do echo $y; done
+  606  for y in {2019..2021}; do for m in {01..12; do echo $m; done; done
+  607  for y in {2019..2021}; do for m in {01..12}; do echo $m; done; done
+  608  for y in {2019..2021}; do for m in {01..12}; do for f in {1..9}; do echo $f; done done; done
+  609  for y in {2019..2021}; do for m in {01..12}; do for f in {1..9}; mkdir -p $y/$m && echo file$f.txt > $y/$m/file$f.txt; done done; done
+  610  for y in {2019..2021}; do for m in {01..12}; do for f in {1..9}; do mkdir -p $y/$m && echo file$f.txt > $y/$m/file$f.txt; done done; done
+  611  ls -l 2021/
+  612  ls -l 2021/12/
+  613  cat 2021/12/file9.txt
+  614  ls -l
+  615  vom test.sh
+  616  vim test.sh
+  617  ./test.sh test
+  618  ./test.sh 123
+  619  vim test.sh
+  620  ./test.sh a1 a2
+  621  ./test.sh a1 a2 a3
+  622  sudo -i
+  623  id
+  624  path
+  625  pwd
+  626  ls -l
+  627  vim forscript
+  628  vim test.sh
+  629  ./test.sh
+  630  ls -l ./test.sh
+  631  chmod 777 ./test.sh
+  632  ./test.sh
+  633  vim test.sh
+  634  ./test.sh
+  635  vim test.sh
+  636  ./test.sh
+  637  vim test.sh
+  638  ./test.sh
+  639  vim test.sh
+  640  ./test.sh
+  641  vim test.sh
+  642  ./test.sh
+  643  vim test.sh
+  644  ./test.sh
+  645  vim test.sh
+  646  ./test.sh
+  647  vim test.sh
+  648  ./test.sh
+  649  vim test.sh
+  650  cat test.sh
+  651  cat forscript
+  652  vim test.sh
+  653  ./test.sh
+  654  ls -l
+  655  cat afterscript
+  656  cat forscript
+  657  cat ./test.sh
+  658  for y in {2010..2017}; do for m in {01..12}; do for f in {001..012}; do mkdir -p $y/$m && echo file$f.txt > $Y/$m/$f.txt; done; done; done
+  659  ls -la
+  660  rm -r {2010..2017}
+  661  ls -la
+  662  for y in {2010..2017}; do for m in {01..12}; do for f in {001..012}; do mkdir -p $y/$m && echo file$f > $Y/$m/$f.txt; done; done; done
+  663  for y in {2010..2017}; do for m in {01..12}; do for f in {001..012}; do mkdir -p $y/$m && echo 123 > $Y/$m/$f.txt; done; done; done
+  664  for y in {2010..2017}; do for m in {01..12}; do for f in {001..012}; do mkdir -p $y/$m && echo file$f > $y/$m/$f.txt; done; done; done
+  665  ls -la
+  666  ls -la ./2015
+  667  ls -la ./2015/07
+  668  cat ./2015/07/012
+  669  cat ./2015/07/012.txt
+  670  ls -l |awk ‘{ print $1 }’
+  671  ls -l |awk '{ print $1 }'
+  672  ls -l |awk '{ print $1 }' | sort -u
+  673  ls -l /var/log/syslog
+  674  cd
+  675  ls -l
+  676  pwd
+  677  cd
+  678  pwd
+  679  cd ../..
+  680  cd /
+  681  cd ./
+  682  cd ../
+  683  pwd
+  684  ls -l
+  685  cd var
+  686  ls -l
+  687  cd log
+  688  ls -l
+  689  cat lastlog
+  690  ls -la
+  691  cat alternatives.log
+  692  cat journal
+  693  cd journal
+  694  ls -la
+  695  pwd
+  696  cd
+  697  pwd
+  698  cd ../..
+  699  pwd
+  700  ls-l
+  701  ls -l
+  702  cp /etc /home/htfhtf/copy_etc
+  703  cp -r /etc /home/htfhtf/copy_etc
+  704  cd /home/htfhtf
+  705  ls -l
+  706  cd copy_etc
+  707  ls -l
+  708  vim /etc/cronotab
+  709  vim /etc/crontab
+  710  rm -r /home/htfhtf/copy_etc
+  711  ls -l /etc
+  712  rm /home/htfhtf/copy_etc
+  713  rm -R /home/htfhtf/copy_etc
+  714  ls -l /home/htfhtf
+  715  vim /etc/crontab
+  716  sudo vim /etc/crontab
+  717  cd /home/htfhtf
+  718  ls -l
+  719  ls -la
+  720  sudo vim /etc/crontab
+  721  date
+  722  ls -la
+  723  pwd
+  724  date
+  725  ls -la
+  726  sudo vim /etc/crontab
+  727  date
+  728  ls -la
+  729  sudo vim /etc/crontab
+  730  date
+  731  ls -la
+  732  sudo vim /etc/crontab
+  733  date
+  734  ls -la
+  735  sudo vim /etc/crontab
+  736  mkdir /home/htfhtf/checkmkdir
+  737  ls -la
+  738  rm checkmkdir
+  739  rm -r checkmkdir
+  740  ls -la
+  741  sudo vim /etc/crontab
+  742  crontab -e
+  743  sudo -i
+  744  dpkg -l | wc -l
+  745  dpkg -l | grep "^ii"
+  746  dpkg -l | grep "^ii" | wc -l
+  747  apt -cache search web server
+  748  apt-cache search web server
+  749  apt-cache search "web\ server" | wc -l
+  750  apt-cache search "server" | grep -i http
+  751  apt-cache search "server" | grep -i http | wc -l
+  752  apt-cache search "server" | grep -i http | less
+  753  apt-get install apache2
+  754  sudo -i
+  755  history
