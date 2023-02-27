@@ -1,1 +1,1 @@
-# Linux_parctice_of_basic_knowledge
+# Linux_practice_of_basic_knowledge
